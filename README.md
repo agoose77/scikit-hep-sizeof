@@ -1,2 +1,3 @@
-# Dask `sizeof` Entrypoint Demo
-This repository implements a stupid plugin that interfaces with the `dask.sizeof` entrypoint
+# Dask `sizeof` Scikit-HEP Plugin
+This repository implements a plugin that registers the Scikit-HEP types with the `dask.sizeof` entrypoint.
+
